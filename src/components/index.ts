@@ -1,1 +1,1 @@
-export { Emblacarousel } from './Emblacarousel'
+export { EmblaCarousel } from './EmblaCarousel'
