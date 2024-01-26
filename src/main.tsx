@@ -1,8 +1,8 @@
 import { createRoot } from 'react-dom/client'
 import { EmblaOptionsType } from 'embla-carousel'
-import { EmblaCarousel } from './components/Emblacarousel'
 
 import { data } from './const/mock'
+import { EmblaCarousel } from './components'
 
 const container = document.getElementById('root')
 const root = createRoot(container!)

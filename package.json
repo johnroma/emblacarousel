@@ -29,7 +29,9 @@
   },
   "peerDependencies": {
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "embla-carousel-react": "^8.0.0",
+    "embla-carousel": "^8.0.0"
   },
   "devDependencies": {
     "@types/react": "^18.2.48",
@@ -51,12 +53,12 @@
     "react-dom": "^18.2.0",
     "tsup": "^8.0.1",
     "typescript": "^5.3.3",
-    "vite": "^5.0.12"
+    "vite": "^5.0.12",
+    "inquirer": "^9.2.12",
+    "change-case": "^5.4.2"
   },
   "dependencies": {
-    "change-case": "^5.4.2",
     "embla-carousel": "8.0.0-rc21",
-    "embla-carousel-react": "8.0.0-rc21",
-    "inquirer": "^9.2.12"
+    "embla-carousel-react": "8.0.0-rc21"
   }
 }
