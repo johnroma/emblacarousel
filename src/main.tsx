@@ -1,5 +1,5 @@
 import { createRoot } from 'react-dom/client'
-import { EmblaOptionsType } from 'embla-carousel'
+import type { EmblaOptionsType } from 'embla-carousel'
 
 import { data } from './const/mock'
 import { EmblaCarousel } from './components'
